@@ -4,7 +4,11 @@ manager = StudentManager()
 manager.load_from_file()
 
 while True:
+<<<<<<< HEAD
     print("\n--- Student Management System ---")
+=======
+    print("\n--- STUDENT SYSTEM (Conflict Version A) ---")
+>>>>>>> conflict-demo
     print("1. Add Student")
     print("2. View Students")
     print("3. Save & Exit")
